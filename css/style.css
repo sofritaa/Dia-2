@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(255, 87, 179);
+    background-color: black ;
+    font-size: xx-large;
+    width: 100%; margin: 5px 10px;
+}
+h1 span{
+    color: rgb(28, 247, 255);
+    font-size: medium;
+
+}
+h2{
+    color: chartreuse;
+    background-color: gold;
+    text-align: center;
+    width: 100%; margin: 5px 10px;
+}
+
+.contactos{
+    background-color: rgb(0, 174, 255);
+    text-align: right;
+    width: 100%; margin: 0px 10px;
+    float: left;
+}
