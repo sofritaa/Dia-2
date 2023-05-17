@@ -1,0 +1,29 @@
+
+.search-button {
+        box-sizing: border-box;
+        border-color: #45c8d1;
+        background-color: rgb(255, 255, 255);
+        color: #45c8d1;
+        border-radius: 5px;
+        padding: 10px 30px;
+        font-size: 20px;
+        cursor: pointer;
+        }
+    
+        .plus-button  {
+            box-sizing: border-box;
+            border-color: #45c8d1;
+            background-color: #45c8d1;
+            color: #ffffff;
+            border-radius: 50%;
+            font-size: 40px;
+            cursor: pointer;
+        }
+        .create-account-button {
+            background-color: rgb(30, 115, 155);
+            box-shadow: 4px 3px rgb(0, 0, 0);
+            color: #ffffff;
+            font-size: 15px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
